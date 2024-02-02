@@ -1,6 +1,8 @@
 /* DATENSTRUKTUREN */
 
 /* Primitives */
+// für bessere Übersicht themen.html im browser öffnen und die einzelnen aufgaben aktivieren, speichern und reloaden.
+// Browoser konsole öffnen mit F12, StrG + Shift + I oder unter weitere werkzeuge
 
 // let a; // Definition oder Deklaration
 
@@ -19,13 +21,13 @@
 // // arr = new Array();  // Möglichkeit
 // arr = [false,true,true,false];
 // console.log(arr);
-// console.log(arr[0]);
+// console.log(arr[0]); // Erstes Element in einen arr.
 // console.log(arr[3]);
-// console.log(arr.length);
-// console.log(arr[arr.length-1]);
+// console.log(arr.length); // anzahl der arr.
+// console.log(arr[arr.length-1]); // Letztes Element in einen arr.
 // console.log(arr[5]);
 
-/* Array -Info, nicht klausurrelevant*/
+/* Array -Info, (nicht klausurrelevant)*/
 // let arr = [];
 // console.log(arr);
 // arr.push("a");
